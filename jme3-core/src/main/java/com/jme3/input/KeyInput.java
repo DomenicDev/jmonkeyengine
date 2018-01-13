@@ -446,6 +446,10 @@ public interface KeyInput extends Input {
      */
     public static final int KEY_UNLABELED = 0x97;
     /**
+     * print screen key
+     */
+    public static final int KEY_PRINTSCREEN = 0x9A;
+    /**
      * Enter key (num pad).
      */
     public static final int KEY_NUMPADENTER = 0x9C;
